@@ -11,8 +11,4 @@ export default createGlobalStyle`
       background: #fff;
       color: #000;
   }
-
-  .row {
-      width: 100%;
-  }
 `;

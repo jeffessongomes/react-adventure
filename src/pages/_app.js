@@ -1,5 +1,6 @@
 import GlobalStyle from '../styles/global';
 
+import 'bootstrap/dist/css/bootstrap.min.css'
 import Header from '../components/layout/header';
 import Footer from '../components/layout/footer';
 
